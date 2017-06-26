@@ -1,0 +1,39 @@
+header {color: white;
+}
+ul.nav li{
+  display: inline-block;
+  font-size: 16px;
+padding: 0px 10px 0px 10px;
+text-align: center;}
+h1 {padding: 0px 10px 0px 0px;
+    border: 7px solid white;
+    border-radius: 20px;
+    color: pink;
+    font-family: arial;
+    text-align:center;
+  }
+#climbing {width:25%; height: auto;
+  align: center;
+  padding:1px;
+   border:3px solid #021a40;
+   background-color:#pink;
+  	filter: grayscale(100%)}
+h2 {font-family: monospace;
+  color:  black;
+}
+p {font-family: fantasy;
+  color: black;
+}
+body {text-align: center;
+    background: url("https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAxvAAAAJGE1NjljZDI5LWI3ZWUtNDU1OC05ZTM3LTlhZDg0ZTY2M2ExNw.jpg");
+  }
+#ivy{
+  width: 25%;
+  height: auto;
+  margin: right;
+  align: text;
+ float: right;
+ margin-left: 30px;
+}
+a {color: grey;
+}
